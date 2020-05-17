@@ -4,6 +4,8 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
+
+// This is to get list of directories + numOfFiles in each dir
 public class FoldersList {
 
 	public static void main(String[] args) {
